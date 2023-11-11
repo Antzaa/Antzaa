@@ -1,5 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cascadia+code&pause=1000&color=7289DADA&center=true&vCenter=true&size=40&width=1920&height=100&lines=Computer+Science+Engineering+student+with+a+passion+for+development)](https://github.com/Antzaa)
-
 <hr />
 
 <p align="center">
