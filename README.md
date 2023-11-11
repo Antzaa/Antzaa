@@ -1,8 +1,6 @@
 <hr />
 
 <p align="center">
-   <img alt="Github" src="https://img.shields.io/github/followers/Antzaa?color=000&logo=github&label=Followers&logoColor=7289DA&style=for-the-badge" />
-   <img width="180" height="28" src="https://komarev.com/ghpvc/?username=Antzaa&style=for-the-badge&color=7289DA" alt="Antzaa" />
    <a href="mailto:antti@windowslive.com" target="_blank">
    <img alt="Email" src="https://img.shields.io/badge/Email-antti%40windowslive.com-7289DA?style=for-the-badge&logo=Microsoft-Outlook&logoColor=white" />
   </a>
